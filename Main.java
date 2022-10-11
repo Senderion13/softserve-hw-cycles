@@ -44,7 +44,6 @@ public class Main {
         System.out.println();
     }
 
-
     public static void func4(){
         int prev1 = 1;
         int prev2 = 0;
